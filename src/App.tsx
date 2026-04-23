@@ -1,4 +1,5 @@
 
+export default App;
 import "./App.css";
 import { ThemeProvider } from "@mui/material";
 import { theme } from "./utils/styles/theme";
@@ -38,4 +39,3 @@ function App() {
 
 }
 
-export default App;
